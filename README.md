@@ -1,1 +1,1 @@
-# practice-using-pascal
+# Just a place to store pascal exercises from my campus
